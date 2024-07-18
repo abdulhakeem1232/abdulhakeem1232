@@ -15,14 +15,14 @@
  
  🌱 I’m currently learning **React, *Tailwind, *Rest API
 
-💬 Ask me about **Python, Django, Postgres... or anything [here](https://github.com/abdulhakeem1232/)**
+💬 Ask me about **javascript, Node, Express... or anything [here](https://github.com/abdulhakeem1232/)**
 
 
  </div>
 
 
  <div align="center"> 
-  <a href="nashirnoor1718@gmail.com">
+  <a href="hakeemakku1232@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/nashir-noor-8008b2263/" target="_blank">
